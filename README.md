@@ -47,7 +47,7 @@ Clicking on any specific drink in the dashboard filters all metrics, charts, and
 
 
 ### 🟦 Powerade
-- With **Pepsi** selected, the dashboard displays targeted metrics just for Pepsi.
+- With **Powerade** selected, the dashboard displays targeted metrics just for Pepsi.
 - Users can analyze sales dips or spikes specific to this product.
 - ![Screenshot 2025-04-14 192853](https://github.com/user-attachments/assets/a180bb59-486b-46b8-802b-26f95cea7e67)
 
